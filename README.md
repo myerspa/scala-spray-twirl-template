@@ -19,7 +19,7 @@ Run the templating script and answer the prompts. Default package and organizati
 ./templatize.sh
 ```
 
-Open ```project/BuildSettings.scala``` and fill replace ```{{ORGANIZATION_HOMEPAGE}}}``` and ```{{DESCRIPTION}}``` with actual values...
+Open ```project/BuildSettings.scala``` and replace ```{{ORGANIZATION_HOMEPAGE}}}``` and ```{{DESCRIPTION}}``` with actual values...
 
 At this point you should be able to launch the application using
 ```
